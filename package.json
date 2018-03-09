@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "happy template",
   "dependencies": {
-    "lodash": "4.17.4",
-    "happy-node": "latest"
+    "happy-node": "latest",
+    "lodash": "4.17.4"
   },
   "devDependencies": {
     "babel-cli": "6.24.1",
