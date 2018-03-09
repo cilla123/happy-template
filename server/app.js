@@ -1,4 +1,4 @@
-const Happy = require('Happy-node');
+const { Happy } = require('happy-node');
 
 const config = {
   SERVER_ROOT: __dirname,
