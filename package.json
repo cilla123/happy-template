@@ -1,6 +1,6 @@
 {
   "name": "happy-template",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "happy template",
   "dependencies": {
     "happy-node": "latest",
