@@ -1,6 +1,6 @@
 {
   "name": "happy-template",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "happy template",
   "dependencies": {
     "happy-node": "latest",
@@ -14,7 +14,9 @@
     "babel-preset-env": "1.6.0",
     "babel-register": "6.24.1"
   },
-  "scripts": {},
+  "scripts": {
+    "dev": "happy dev"
+  },
   "repository": {
     "type": "git",
     "url": ""
